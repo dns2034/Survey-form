@@ -27,6 +27,3 @@ This is a simple survey form designed to collect feedback about online mode lear
 
 ## Contribution
 Feel free to fork the repository and make improvements or modifications. Contributions are welcome!
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
